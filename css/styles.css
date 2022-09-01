@@ -10,6 +10,8 @@ body {
     background-color: rgb(73,144,179);
     color: azure;
     cursor: pointer;
+    justify-content: center;
+    padding-top: 75px;
 }
 /* header{
     display: flex;
@@ -68,6 +70,9 @@ body {
     text-align: center;
     font-size: large;
     transition: .4s ease-out;
-    
-    
+    cursor: none;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
 }
