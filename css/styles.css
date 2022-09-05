@@ -67,10 +67,10 @@ body {
 .box:hover{
     background-color: white;
     color:rgb(73,144,179) ;
-    text-align: center;
     font-size: large;
     transition: .4s ease-out;
     cursor: none;
+    font-weight: 700;
 }
 a{
     text-decoration: none;
